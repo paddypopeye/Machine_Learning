@@ -16,7 +16,7 @@ end
 
 % SET HYPERPARAMETERS HERE.
 batchsize = 100;  % Mini-batch size.
-learning_rate = 100;  % Learning rate; default = 0.1.
+learning_rate = 10;  % Learning rate; default = 0.1.
 momentum = 0.9;  % Momentum; default = 0.9.
 numhid1 = 50;  % Dimensionality of embedding space; default = 50.
 numhid2 = 200;  % Number of units in hidden layer; default = 200.
@@ -35,33 +35,19 @@ vocab_size = size(vocab, 2);
 
 % INITIALIZE WEIGHTS AND BIASES.
 
-%word_embedding_weights = init_wt * randn(vocab_size, numhid1);
-%embed_to_hid_weights = init_wt * randn(numwords * numhid1, numhid2);
-%hid_to_output_weights = init_wt * randn(numhid2, vocab_size);
-%hid_bias = zeros(numhid2, 1);
-%output_bias = zeros(vocab_size, 1);
+word_embedding_weights = init_wt * randn(vocab_size, numhid1);
+embed_to_hid_weights = init_wt * randn(numwords * numhid1, numhid2);
+hid_to_output_weights = init_wt * randn(numhid2, vocab_size);
+hid_bias = zeros(numhid2, 1);
+output_bias = zeros(vocab_size, 1);
 
-%word_embedding_weights_delta = zeros(vocab_size, numhid1);
-%word_embedding_weights_gradient = zeros(vocab_size, numhid1);
-%embed_to_hid_weights_delta = zeros(numwords * numhid1, numhid2);
-%hid_to_output_weights_delta = zeros(numhid2, vocab_size);
-%hid_bias_delta = zeros(numhid2, 1);
-%output_bias_delta = zeros(vocab_size, 1);
-%expansion_matrix = eye(vocab_size);
-
-word_embedding_weights = 0
-embed_to_hid_weights = 0
-hid_to_output_weights = 0
-hid_bias = 0;
-output_bias = 0;
-
-word_embedding_weights_delta = 0;
-word_embedding_weights_gradient = 0;
-embed_to_hid_weights_delta = 0;
-hid_to_output_weights_delta = 0;
-hid_bias_delta = 0;
-output_bias_delta = 0;
-expansion_matrix = 0;
+word_embedding_weights_delta = zeros(vocab_size, numhid1);
+word_embedding_weights_gradient = zeros(vocab_size, numhid1);
+embed_to_hid_weights_delta = zeros(numwords * numhid1, numhid2);
+hid_to_output_weights_delta = zeros(numhid2, vocab_size);
+hid_bias_delta = zeros(numhid2, 1);
+output_bias_delta = zeros(vocab_size, 1);
+expansion_matrix = eye(vocab_size);
 count = 0;
 tiny = exp(-30);
 
