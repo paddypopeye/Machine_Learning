@@ -16,7 +16,7 @@ end
 
 % SET HYPERPARAMETERS HERE.
 batchsize = 100;  % Mini-batch size.
-learning_rate = 10;  % Learning rate; default = 0.1.
+learning_rate = 0.1;  % Learning rate; default = 0.1.
 momentum = 0.9;  % Momentum; default = 0.9.
 numhid1 = 50;  % Dimensionality of embedding space; default = 50.
 numhid2 = 200;  % Number of units in hidden layer; default = 200.
@@ -34,7 +34,6 @@ show_validation_CE_after = 1000;
 vocab_size = size(vocab, 2);
 
 % INITIALIZE WEIGHTS AND BIASES.
-
 word_embedding_weights = init_wt * randn(vocab_size, numhid1);
 embed_to_hid_weights = init_wt * randn(numwords * numhid1, numhid2);
 hid_to_output_weights = init_wt * randn(numhid2, vocab_size);
@@ -116,7 +115,7 @@ for epoch = 1:epochs
     % (d) hid_bias_gradient = back_propagated_deriv_1';
 
     % FILL IN CODE. Replace the line below by one of the options.
-    %back_propagated_deriv_2 = zeros(numhid1*numwords, batchsize);
+    %back_propagated_deriv_2 = zeros(numhid2, batchsize);
     % Options
     back_propagated_deriv_2 = embed_to_hid_weights * back_propagated_deriv_1;
     % (b) back_propagated_deriv_2 = back_propagated_deriv_1 * embed_to_hid_weights;

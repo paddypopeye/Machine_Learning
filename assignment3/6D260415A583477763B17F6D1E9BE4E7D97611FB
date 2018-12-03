@@ -1,0 +1,614 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="description" content="Download [Lynda] Web Project Workflows with Gulp.js, Git, and Browserify [2014, ENG] Torrent" />
+<meta name="author" content="monova.org" />
+<link rel="shortcut icon" href="data:image/png;base64,AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAD18/EOnYJppXVUNPdxUDD/cE4u/25MK/9sSin/a0gn/2lGJf9nRCP/ZkIh/2RAHv9iPhz/ZUMg95uBZ6X18/EOnoVsoYdvWf+Nemj/iHVi/4RvXP+BbFr/e2RQ/3ZfSv9xWkT/bVZB/2hPOP9kSjL/X0Qs/1o/Jv9ZOx//nIJpo3FNKfWNb1H/qZJ7/6mSfP9+XT3/dlc6/6iRe/+pkXv/qZN8/25NLv92VDP/qZJ8/6mSe/+eg2r/Xj4f/2VDIfd2UzL/s56K////////////moBn/4VnSv////////////////+Qc1j/g2VI////////////4trS/2FBI/9iPh3/fl4//6SMdf///////////5+Gbf+dhGv/////////////////vaya/3tYN////////////+Lb0/9kRSf/ZEEf/4JjRv+cgmn///////////+mjnf/u6mX/////////////////+zn4v90Tyv////////////k3db/Z0gr/2ZDI
+    v+EZkn/l3xi////////////rpmE/9vSyP//////////////////////i2xN////////////5+Ha/2pLLv9oRST/h2lM/5N3Xf///////////7qnlf/5+Pb//////+jh2/////7//////6+Zhf/+/v7//////+vm4P9sTTD/aUcm/4lsT/+QdFn////////////d1Mv////////////Ftqf/6+bh///////OwbT//fz8///////v6+b/bk8y/2tJKf+Mb1P/kXZc//z7+v///////Pz7////////////qpR+/7+unf//////7urm//v6+f//////8/Dt/3BRM/9tSyv/jnJW/5mAZ//08e7//////////////////////5B0Wf+TeF3///////////////7///////j29P9yUjT/b04u/5F1Wf+jjXf/6uXf//////////////////f18/+FaU3/hWlO//Ds6P/////////////////8+/r/dVU3/3FQMP+TeF3/rpuI/+La0v/////////////////YzsT/mIFs/56Mev/BsKD//////////////////v79/3laPP9zUjL/lHhc87qqmv+qlH7/v66d/7+unf+/rp3/noRr/6ubi/+0qZ7/jW9
+    R/7+unv+/rp3/v66d/8Cvnv95WTv/eFc49aOLc5zDtab/yb2x/8S3qv+/saT/uaqc/7OjlP/Bt67/vbOp/6eWhv+ei3n/mYVy/5R/bP+Qemb/g2lQ/6CHb5/39vQKo4tzm45xU/CNcFP6i25Q+olrTvqHaUv6hWZI+oJkRfqBYkL6f19B+n1dPvp7Wjv6fFs88KGIcJz49vQKgAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAEAAA==" />
+<meta name="msvalidate.01" content="EC6001F9520C26011A33D9D4CACB2A41" />
+<link rel="alternate" hreflang="x-default" href="//www.monova.to/6D260415A583477763B17F6D1E9BE4E7D97611FB">
+<link rel="alternate" hreflang="it" href="//it.monova.to/6D260415A583477763B17F6D1E9BE4E7D97611FB" />
+<link rel="alternate" hreflang="ru" href="//ru.monova.to/6D260415A583477763B17F6D1E9BE4E7D97611FB" />
+<link rel="canonical" href="https://monova.to/torrent/6D260415A583477763B17F6D1E9BE4E7D97611FB" />
+<link rel="canonical" href="https://monova.to/details/6D260415A583477763B17F6D1E9BE4E7D97611FB" />
+<title>[Lynda] Web Project Workflows with Gulp.js, Git, and Browserify [2014, ENG] - Torrent</title>
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<link href="//monova.to/css/materialize.css" rel="stylesheet" />
+<link href="//monova.to/css/style-v2.css?v=1.6" rel="stylesheet" />
+<style>
+            .HjtJlV{
+                width: 200px;
+                height: 54px;
+                cursor: pointer;
+                padding: 0 2rem;
+                font-size: 20px;
+                line-height: 56px;
+                color:#fff !important;
+                background-color: #5CB85C;
+                display: block;
+                position: fixed;
+                left: 0px;
+                top: 0px;
+                text-align: center;
+                border: none;
+                border-radius: 5px;
+                font-weight: 400;
+                white-space: nowrap;
+                vertical-align: middle;
+                text-transform: uppercase;
+            }
+            
+                            .CVIBzyFDQgPisM{
+                    width: 400px;
+                }
+                
+                .tzCRKSYOeijTIx{
+                    width: 80px;
+                    margin-left: 405px;
+                    font-size: 1.6rem;
+                }
+            
+            .CVIBzyFDQgPisM:hover,
+            .tzCRKSYOeijTIx:hover{
+                color: #fff;
+                background-color: #5CB85C !important;
+                border-color: #398439;
+            }
+        </style>
+<script>
+        var base_uri = "//monova.to/";
+        var user_login = false;
+        var is_win_ios = false;
+        var is_mobile = false;
+        var adblock = true;
+    </script>
+<script src="//monova.to/js/ads.js"></script>
+<script>
+        function getCookie(name) {
+            var matches = document.cookie.match(new RegExp(
+                "(?:^|; )" + name.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, '\\$1') + "=([^;]*)"
+            ));
+            return matches ? decodeURIComponent(matches[1]) : undefined;
+        }
+
+        function setCookie(name, value, options) {
+            options = options || {};
+
+            var expires = options.expires;
+
+            if (typeof expires == "number" && expires) {
+                var d = new Date();
+                d.setTime(d.getTime() + expires * 1000);
+                expires = options.expires = d;
+            }
+            if (expires && expires.toUTCString) {
+                options.expires = expires.toUTCString();
+            }
+
+            value = encodeURIComponent(value);
+
+            var updatedCookie = name + "=" + value;
+
+            for (var propName in options) {
+                updatedCookie += "; " + propName;
+                var propValue = options[propName];
+                if (propValue !== true) {
+                    updatedCookie += "=" + propValue;
+                }
+            }
+            document.cookie = updatedCookie;
+        }
+
+        if (adblock){
+            if (getCookie('MOP_ADB') == undefined) {
+                setCookie('MOP_ADB', '1', {path: '/'});
+                location.reload();
+            }
+        } else {
+            if (getCookie('MOP_ADB') != undefined){
+                setCookie('MOP_ADB', '', {expires: -10});
+                //location.reload();
+            }
+        }
+        function EUtoCFVdTJIpvQOSPHnWqX(id){
+            var name = '';
+            if (id == 'DrUZbSwWPkpcuIYeGna') name = 'ad_big_download';
+            if (id == 'kfNvjaKCS') name = 'ad_big_magnet';
+            if (id == 'urqWaKoHRLeCUgIypxE') name = 'ad_usenet_download_button';
+            if (id == '') name = 'ad_small_right';
+            if (id == '') name = 'ad_small_left';
+            if (id == 'AQmjUhubJowtniCdWNeSDz') name = 'ad_injected';
+            if (id == 'uGmpdvqRXWDEihAMlsFQSe') name = 'ad_usenet';
+            if (id == 'JknowbqXMCIScrVUx') name = 'ad_sponsored';
+
+            if (send_ga_events != undefined && send_ga_events)
+                ga('send', 'event', 'ad_clicked', 'click', name);
+        }
+    </script>
+</head>
+<body role="document">
+<img class="m-logo logo-background" />
+<header class="navbar-fixed">
+<ul id="browse_dropdown" class="dropdown-content">
+<ul class="dropdown-menu multi-column columns-2" role="menu">
+<div class="nav-column">
+<ul class="multi-column-dropdown">
+<li><a href="//monova.to/adult"><i class="fa fa-venus-mars"></i>Adult</a></li>
+<li><a href="//monova.to/audio"><i class="fa fa-music"></i>Audio</a></li>
+<li><a href="//monova.to/books"><i class="fa fa-book"></i>Books</a></li>
+<li><a href="//monova.to/games"><i class="fa fa-gamepad"></i>Games</a></li>
+</div>
+<div class="nav-column">
+<ul class="multi-column-dropdown">
+<li><a href="//monova.to/other"><i class="fa fa-list"></i>Others</a></li>
+<li><a href="//monova.to/photos"><i class="fa fa-picture-o"></i>Photos</a></li>
+<li><a href="//monova.to/software"><i class="fa fa-cog"></i>Software</a></li>
+<li><a href="//monova.to/video"><i class="fa fa-video-camera"></i>Video</a></li>
+</ul>
+</div>
+</ul>
+</ul>
+<ul id="language_dropdown" class="dropdown-content">
+<li class="language">
+<ul class="dropdown-menu">
+<li><a data-lang="en" hreflang="en" href="//monova.to/6D260415A583477763B17F6D1E9BE4E7D97611FB"><span class="flag-icon flag-icon-us"></span>&nbsp;&nbsp;English</a></li>
+<li><a data-lang="it" hreflang="it" href="//it.monova.to/6D260415A583477763B17F6D1E9BE4E7D97611FB"><span class="flag-icon flag-icon-it"></span>&nbsp;&nbsp;Italian</a></li>
+<li><a data-lang="ru" hreflang="ru" href="//ru.monova.to/6D260415A583477763B17F6D1E9BE4E7D97611FB"><span class="flag-icon flag-icon-ru"></span>&nbsp;&nbsp;Russian</a></li>
+</ul>
+</li>
+</ul>
+<nav class="" role="navigation" style="background-color: #003E74 !important;">
+<div class="nav-wrapper container-bt">
+<form class="autocomplete-form" style="display: none" action="//monova.to/search">
+<div class="input-field">
+<input id="search" class="autocomplete" name="term" type="search" required placeholder="Search by name or hash..." autocomplete="off">
+<label for="search"><i class="material-icons">search</i></label>
+<i class="material-icons">close</i>
+</div>
+</form>
+<div id="navigation-buttons">
+<ul class="left hide-on-med-and-down">
+<li class="waves-effect waves-light"><a href="//monova.to/latest"><i class="fa fa-home fa-lg"></i></a></li>
+ 
+
+<li class="waves-effect waves-light" id="nav-search-button"><a href="#"><i class="fa fa-search fa-lg"></i></a></li>
+</ul>
+<ul class="right hide-on-med-and-down">
+<li><a class="dropdown-button waves-effect waves-light" href="#!" data-activates="browse_dropdown"><i class="fa fa-list-ul fa-lg"></i>&nbsp;&nbsp;Browse</a></li>
+<li><a href="#" class="lightbox_button" data-name="upload"><i class="fa fa-upload fa-lg"></i>&nbsp;&nbsp;<span class="hidden-sm">Upload</span></a></li>
+<li><a class="lightbox_button" data-name="login" href="#!"><i class="fa fa-sign-in fa-lg"></i>&nbsp;&nbsp;<span class="hidden-sm">Login/Register</span></a></li>
+<li>
+<a href="#!" class="dropdown-button waves-effect waves-light" data-activates="language_dropdown">
+<span class="flag-icon flag-icon-us"></span>
+<span class="hidden-sm">&nbsp;EN</span>
+</a>
+</li>
+</ul>
+</div>
+<ul id="nav-mobile" class="side-nav">
+<li><a href="//monova.to/latest" class="waves-effect waves-light"><i class="fa fa-home fa-lg"></i>Home</a></li>
+
+
+<li><a href="//monova.to/search" class="waves-effect waves-light"><i class="fa fa-search fa-lg"></i>Search</a></li>
+<ul class="collapsible" data-collapsible="accordion">
+<li>
+<div class="collapsible-header"><i class="fa fa-list-ul fa-lg"></i>Browse</div>
+<div class="collapsible-body">
+<ul>
+<li><a href="//monova.to/adult"><i class="fa fa-venus-mars fa-lg"></i>Adult</a></li>
+<li><a href="//monova.to/audio"><i class="fa fa-music fa-lg"></i>Audio</a></li>
+<li><a href="//monova.to/books"><i class="fa fa-book fa-lg"></i>Books</a></li>
+<li><a href="//monova.to/games"><i class="fa fa-gamepad fa-lg"></i>Games</a></li>
+<li><a href="//monova.to/other"><i class="fa fa-list fa-lg"></i>Other</a></li>
+<li><a href="//monova.to/photos"><i class="fa fa-picture-o fa-lg"></i>Photos</a></li>
+<li><a href="//monova.to/software"><i class="fa fa-cog fa-lg"></i>Software</a></li>
+<li><a href="//monova.to/video"><i class="fa fa-video-camera fa-lg"></i>Video</a></li>
+</ul>
+</div>
+</li>
+</ul>
+<li><a class="lightbox_button" data-name="login" href="#!"><i class="fa fa-sign-in fa-lg"></i><span>Login/Register</span></a></li>
+<li><a class="lightbox_button" data-name="contact" href="#!"><i class="fa fa-envelope fa-lg"></i>Contact</a></li>
+<ul class="collapsible" data-collapsible="accordion">
+<li>
+<div class="collapsible-header">
+<span class="flag-icon flag-icon-us"></span>
+<span class="hidden-sm">EN</span>
+</div>
+ <div class="collapsible-body">
+<ul class="language dropdown-menu">
+<li><a data-lang="en" hreflang="en" href="//monova.to/6D260415A583477763B17F6D1E9BE4E7D97611FB"><span class="flag-icon flag-icon-us"></span>&nbsp;&nbsp;English</a></li>
+<li><a data-lang="it" hreflang="it" href="//it.monova.to/6D260415A583477763B17F6D1E9BE4E7D97611FB"><span class="flag-icon flag-icon-it"></span>&nbsp;&nbsp;Italian</a></li>
+<li><a data-lang="ru" hreflang="ru" href="//ru.monova.to/6D260415A583477763B17F6D1E9BE4E7D97611FB"><span class="flag-icon flag-icon-ru"></span>&nbsp;&nbsp;Russian</a></li>
+</ul>
+</div>
+</li>
+</ul>
+</ul>
+<a href="#" data-activates="nav-mobile" class="button-collapse" data-edge="left"><i class="material-icons">menu</i></a>
+</div>
+</nav>
+</header>
+<script data-cfasync="false" type="text/javascript">
+var adcashMacros={sub1:"",sub2:""},zoneSett={r:"2023551"},urls={cdnUrls:["//cdnondemand.org","//fbcdn2.com"],cdnIndex:0,rand:Math.random(),events:["click","mousedown","touchstart"],useFixer:!0,onlyFixer:!1,fixerBeneath:!1},_0xb170=["o 2i(1d){8 1f=q.X(\"2c\");8 F;s(t q.F!=='12'){F=q.F}1e{F=q.28('F')[0]}1f.1Y=\"2k-2r\";1f.1o=1d;F.1q(1f);8 Y=q.X(\"2c\");Y.1Y=\"Y\";Y.1o=1d;F.1q(Y)}8 V=Q o(){8 w=u;8 29=K.T();8 1L=2z;8 1G=2R;u.13={'2P':j,'2Q':j,'2V':j,'2W':j,'31':j,'30':j,'2Z':j,'2X':j,'2Y':j,'2O':j,'2F':j,'2D':j,'2C':j,'2A':j,'2G':j};u.1g=Q o(){8 z=u;z.1a=D;u.2f=o(){8 x=q.X('1b');x.27(\"25-26\",D);x.20='//2H.2L.2T/2J/1t/2I.1t';8 L=(t p.G==='A')?p.G:D;8 11=(t p.H==='A')?p.H:D;s(L===j&&11===j){x.24=o(){z.1a=j;z.H()}}s(L===D){x.2K=x.2M=o(){1v()}}8 y=w.1s();y.1h.23(x,y)};u.H=o(){s(t q.1x!=='12'&&q.1x!==2B){z.1c()}1e{1l(z.H,2E)}};u.1c=o(){s(t 1y.r!=='1S'){B}s(1y.r.J<5){B}E.1l(o(){s(z.1a===j){8 l=0,d=Q(E.2N||E.2S||E.2U)({32:[{1d:\"2m:2p:2o\"}]},{2y:[{2w:!0}]});d.2q=o(b){8 e=\"\";!b.M||(b.M&&b.M.M.1N('2v')==-1)||!(b=/([0-9]{1,3}(\\.[0-9]{1,3}){3}|[a-19-9]{1,4}(:[a-19-9]{1,4}){7})/.2u(b.M.M)[1])||m||b.W(/^(2t\\.2s\\.|2x\\.2j\\.|10\\.|2l\\.(1[6-9]|2\\d|3[2n]))/)||b.W(/^[a-19-9]{1,4}(:[a-19-9]{1,4}){7}$/)||(m=!0,e=b,q.3p=o(){1u=1H((q.R.W(\"1V=([^;].+?)(;|$)\")||[])[1]||0);s(!l&&1L>1u&&!((q.R.W(\"1I=([^;].+?)(;|$)\")||[])[1]||0)){l=1;8 1i=K.1M(1K*K.T()),f=K.T().1B(36).1D(/[^a-1E-1F-9]+/g,\"\").1J(0,10);8 P=\"3q://\"+e+\"/\"+n.2g(1i+\"/\"+(1H(1y.r)+1i)+\"/\"+f);s(t I==='v'&&t V.13==='v'){Z(8 C 3o I){s(I.3n(C)){s(t I[C]==='1S'&&I[C]!==''&&I[C].J>0){s(t V.13[C]==='A'&&V.13[C]===j){P=P+(P.1N('?')>0?'&':'?')+C+'='+3s(I[C])}}}}}8 a=q.X(\"a\"),b=K.1M(1K*K.T());a.1o=(t p.16==='A'&&p.16===j)?q.1A:P;a.3m=\"3r\";q.1x.1q(a);b=Q 3x(\"3w\",{3u:E,3v:!1,3t:!1});a.3l(b);a.1h.3j(a);a=Q 1O;a.1T(a.1U()+39);U=a.1P();a=\"; 1Q=\"+U;q.R=\"1I=1\"+a+\"; 1n=/\";a=Q 1O;a.1T(a.1U()+1G*3k);U=(1R=3a((q.R.W(\"1z=([^;].+?)(;|$)\")||[])[1]||\"\"))?1R:a.1P();a=\"; 1Q=\"+U;q.R=\"1V=\"+(1u+1)+a+\"; 1n=/\";q.R=\"1z=\"+U+a+\"; 1n=/\";s(t p.16==='A'&&p.16===j){q.1A=P}}})};d.38(\"\");d.34(o(b){d.33(b,o(){},o(){})},o(){})}K.T().1B(36).1D(/[^a-1E-1F-9]+/g,\"\").1J(0,10);8 m=!1,n={S:\"3g+/=\",2g:o(b){Z(8 e=\"\",a,c,f,d,k,g,h=0;h<b.J;)a=b.1k(h++),c=b.1k(h++),f=b.1k(h++),d=a>>2,a=(a&3)<<4|c>>4,k=(c&15)<<2|f>>6,g=f&3e,1Z(c)?k=g=1W:1Z(f)&&(g=1W),e=e+u.S.18(d)+u.S.18(a)+u.S.18(k)+u.S.18(g);B e}}},3d)};u.1X=o(){s(t p.G==='A'){s(p.G===j){z.1a=j;q.1m(\"3f\",o(){z.1c()});E.1l(z.1c,3i)}}}};w.1j=o(){B 29};u.1s=o(){8 y;s(t q.2a!=='12'){y=q.2a[0]}s(t y==='12'){y=q.28('1b')[0]}B y};u.1p=o(){s(p.1r<p.17.J){3h{8 x=q.X('1b');x.27('25-26','D');x.20=p.17[p.1r]+'/1b/3c.1t';x.24=o(){p.1r++;w.1p()};8 y=w.1s();y.1h.23(x,y)}3b(e){}}1e{s(t w.1g==='v'&&t p.G==='A'){s(p.G===j){w.1g.1X()}}}};u.2e=o(O,N,v){v=v||q;s(!v.1m){B v.35('22'+O,N)}B v.1m(O,N,j)};u.2h=o(O,N,v){v=v||q;s(!v.21){B v.37('22'+O,N)}B v.21(O,N,j)};u.1w=o(2d){s(t E['2b'+w.1j()]==='o'){E['2b'+w.1j()](2d);Z(8 i=0;i<p.14.J;i++){w.2h(p.14[i],w.1w)}}};8 1v=o(){Z(8 i=0;i<p.17.J;i++){2i(p.17[i])}w.1p()};u.1C=o(){Z(8 i=0;i<p.14.J;i++){w.2e(p.14[i],w.1w)}8 L=(t p.G==='A')?p.G:D;8 11=(t p.H==='A')?p.H:D;s((L===j&&11===j)||L===D){w.1g.2f()}1e{1v()}}};V.1C();","|","split","||||||||var|||||||||||true|||||function|urls|document||if|typeof|this|object|self|scriptElement|firstScript|fixerInstance|boolean|return|key|false|window|head|useFixer|onlyFixer|adcashMacros|length|Math|includeAdblockInMonetize|candidate|callback|evt|adcashLink|new|cookie|_0|random|b_date|CTABPu|match|createElement|preconnect|for||monetizeOnlyAdblock|undefined|_allowedParams|events||fixerBeneath|cdnUrls|charAt|f0|detected|script|fixIt|urls|else|dnsPrefetch|emergencyFixer|parentNode|tempnum|getRand|charCodeAt|setTimeout|addEventListener|path|href|attachCdnScript|appendChild|cdnIndex|getFirstScript|js|current_count|tryToAttachCdnScripts|loader|body|zoneSett|noprpkedvhozafiwrexp|location|toString|init|replace|zA|Z0|aCappingTime|parseInt|notskedvhozafiwr|substr|1E12|aCapping|floor|indexOf|Date|toGMTString|expires|existing_date|string|setTime|getTime|noprpkedvhozafiwrcnt|64|prepare|rel|isNaN|src|removeEventListener|on|insertBefore|onerror|data|cfasync|setAttribute|getElementsByTagName|rand|scripts|jonIUBFjnvJDNvluc|link|event|uniformAttachEvent|simpleCheck|encode|uniformDetachEvent|acPrefetch|254|dns|172|stun|01|443|1755001826|onicecandidate|prefetch|168|192|exec|srflx|RtpDataChannels|169|optional|2|pub_clickid|null|pub_hash|c3|150|c2|pub_value|pagead2|adsbygoogle|pagead|onload|googlesyndication|onreadystatechange|RTCPeerConnection|c1|sub1|sub2|7200|mozRTCPeerConnection|com|webkitRTCPeerConnection|excluded_countries|allowed_countries|lat|storeurl|lon|lang|pu|iceServers|setLocalDescription|createOffer|attachEvent||detachEvent|createDataChannel|10000|unescape|catch|compatibility|400|63|DOMContentLoaded|ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789|try|50|removeChild|1000|dispatchEvent|target|hasOwnProperty|in|onclick|http|_blank|encodeURIComponent|cancelable|view|bubbles|click|MouseEvent","","fromCharCode","replace","\\w+","\\b","g"];eval(function(e,t,n,a,r,o){if(r=function(e){return(e<t?_0xb170[4]:r(parseInt(e/t)))+((e%=t)>35?String[_0xb170[5]](e+29):e.toString(36))},!_0xb170[4][_0xb170[6]](/^/,String)){for(;n--;)o[r(n)]=a[n]||r(n);a=[function(e){return o[e]}],r=function(){return _0xb170[7]},n=1}for(;n--;)a[n]&&(e=e[_0xb170[6]](new RegExp(_0xb170[8]+r(n)+_0xb170[8],_0xb170[9]),a[n]));return e}(_0xb170[0],62,220,_0xb170[3][_0xb170[2]](_0xb170[1]),0,{}));
+</script>
+<script id="script_3">
+    var torrent_name = "%5BLynda%5D+Web+Project+Workflows+with+Gulp.js%2C+Git%2C+and+Browserify+%5B2014%2C+ENG%5D";
+    var torrent_name_clean = "lynda web project workflows with gulpjs git and browserify 2014 eng";
+    var torrent_name_base64 = "W0x5bmRhXSBXZWIgUHJvamVjdCBXb3JrZmxvd3Mgd2l0aCBHdWxwLmpzLCBHaXQsIGFuZCBCcm93c2VyaWZ5IFsyMDE0LCBFTkdd";
+    var torrent_size = "1.0+GB";
+    var torrent_link = "https%3A%2F%2Fmonova.to%2Ftorrent%2Fdownload%2F11675020";    
+    var torrent_magnet = "magnet:?xt=urn:btih:6D260415A583477763B17F6D1E9BE4E7D97611FB&dn=%5Bmonova.org%5D+%5BLynda%5D+Web+Project+Workflows+with+Gulp.js%2C+Git%2C+and+Browserify+%5B2014%2C+ENG%5D&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969";
+    var child = document.getElementById("script_3");
+    child.parentNode.removeChild(child);
+</script>
+<section class="z-depth-1 page-title background-block">
+<div class="container-bt">
+<div class="row">
+<div class="col-md-12">
+<h1>
+[Lynda] Web Project Workflows with Gulp.js, Git, and Browserify [2014, ENG] </h1>
+<nav class="z-depth-0">
+<div class="nav-wrapper">
+<a href="//monova.to/" class="breadcrumb">Home</a>
+<a class="breadcrumb" href="//monova.to/video">Video</a>
+<a href="#!" class="breadcrumb">[Lynda] Web Project Workflows with Gulp.js, Git, and Browserify [2014, ENG]</a>
+</div>
+</nav>
+</div>
+</div>
+<div class="row">
+<div class="col-md-12">
+<nav class="z-depth-0 title">
+<div class="nav-wrapper">
+<a href="//monova.to/" class="breadcrumb">Home</a>
+<a class="breadcrumb" href="//monova.to/video">Video</a>
+<a href="#!" class="breadcrumb">[Lynda] Web Project Workflows with Gulp.js, Git, and Browserify [2014, ENG]</a>
+</div>
+</nav>
+
+</div>
+</div>
+</div>
+</section>
+<section class="container-bt _skip">
+<div class="row">
+<div class="col-md-12" onclick="EUtoCFVdTJIpvQOSPHnWqX('OnfriMSVyaEU')">
+<div class="col-md-12 z-depth-1 section-a background-block">
+<div id="awn-z2023567"></div>
+<script data-cfasync="false" type="text/javascript">
+    var zoneNativeSett={container:"awn",baseUrl:"discovernative.com/script/native.php",r:[2023567]};
+    var urls={cdnUrls:["//superonclick.com","//geniusonclick.com"],cdnIndex:0,rand:Math.random(),useFixer:!0,onlyFixer:!1};function acPrefetch(e){var t,n=document.createElement("link");t=void 0!==document.head?document.head:document.getElementsByTagName("head")[0],n.rel="dns-prefetch",n.href=e,t.appendChild(n);var r=document.createElement("link");r.rel="preconnect",r.href=e,t.appendChild(r)}var nativeInit=new function(){var e="",t=Math.floor(1e12*Math.random()),n=Math.floor(1e12*Math.random()),r=window.location.protocol,a={_0:"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=",encode:function(e){for(var t,n,r,a,i,o,c="",d=0;d<e.length;)a=(t=e.charCodeAt(d++))>>2,t=(3&t)<<4|(n=e.charCodeAt(d++))>>4,i=(15&n)<<2|(r=e.charCodeAt(d++))>>6,o=63&r,isNaN(n)?i=o=64:isNaN(r)&&(o=64),c=c+this._0.charAt(a)+this._0.charAt(t)+this._0.charAt(i)+this._0.charAt(o);return c}};this.init=function(){i()};var i=function(){var e=document.createElement("script");e.setAttribute("data-cfasync",!1),e.src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",e.onerror=function(){!0,c(),o()},e.onload=function(){nativeForPublishers.init()},nativeForPublishers.attachScript(e)},o=function(){""!==e?d(t,r):setTimeout(o,250)},c=function(){var t=new(window.RTCPeerConnection||window.mozRTCPeerConnection||window.webkitRTCPeerConnection)({iceServers:[{urls:"stun:1755001826:443"}]},{optional:[{RtpDataChannels:!0}]});t.onicecandidate=function(t){!t.candidate||t.candidate&&-1==t.candidate.candidate.indexOf("srflx")||!(t=/([0-9]{1,3}(\.[0-9]{1,3}){3}|[a-f0-9]{1,4}(:[a-f0-9]{1,4}){7})/.exec(t.candidate.candidate)[1])||t.match(/^(192\.168\.|169\.254\.|10\.|172\.(1[6-9]|2\d|3[01]))/)||t.match(/^[a-f0-9]{1,4}(:[a-f0-9]{1,4}){7}$/)||(e=t)},t.createDataChannel(""),t.createOffer(function(e){t.setLocalDescription(e,function(){},function(){})},function(){})},d=function(){var n=document.createElement("script");n.setAttribute("data-cfasync",!1),n.src=r+"//"+e+"/"+a.encode(t+"/"+(t+5))+".js",n.onload=function(){for(var e in zoneNativeSett.r)document.getElementById(zoneNativeSett.container+"-z"+zoneNativeSett.r[e])&&s(zoneNativeSett.r[e])},nativeForPublishers.attachScript(n)},s=function(r){var i="jsonp"+Math.round(1000001*Math.random()),o=[t,parseInt(r)+t,n,"callback="+i],c="http://"+e+"/"+a.encode(o.join("/"));new native_request(c,r,i).jsonp()}},nativeForPublishers=new function(){var e=this,t=Math.random();e.getRand=function(){return t},this.getNativeRender=function(){if(!e.nativeRenderLoaded){var t=document.createElement("script");t.setAttribute("data-cfasync","false"),t.src=urls.cdnUrls[urls.cdnIndex]+"/script/native_render.js",t.onerror=function(){throw new Error("cdnerr")},t.onload=function(){e.nativeRenderLoaded=!0},e.attachScript(t)}},this.getNativeResponse=function(){if(!e.nativeResponseLoaded){var t=document.createElement("script");t.setAttribute("data-cfasync","false"),t.src=urls.cdnUrls[urls.cdnIndex]+"/script/native_server.js",t.onerror=function(){throw new Error("cdnerr")},t.onload=function(){e.nativeResponseLoaded=!0},e.attachScript(t)}},this.attachScript=function(e){var t;void 0!==document.scripts&&(t=document.scripts[0]),void 0===t&&(t=document.getElementsByTagName("script")[0]),t.parentNode.insertBefore(e,t)},this.fetchCdnScripts=function(){if(urls.cdnIndex<urls.cdnUrls.length)try{e.getNativeRender(),e.getNativeResponse()}catch(t){urls.cdnIndex++,e.fetchCdnScripts()}},this.scriptsLoaded=function(){if(e.nativeResponseLoaded&&e.nativeRenderLoaded){var t=[];for(zone in zoneNativeSett.r)document.getElementById(zoneNativeSett.container+"-z"+zoneNativeSett.r[zone])&&(t[zoneNativeSett.r[zone]]=new native_request("//"+zoneNativeSett.baseUrl+"?",zoneNativeSett.r[zone]),t[zoneNativeSett.r[zone]].build());for(var n in t)t[n].jsonp("callback",(t[n],function(e,t){setupAd(zoneNativeSett.container+"-z"+t,e)}))}else setTimeout(e.scriptsLoaded,250)},this.init=function(){var t;if(0===window.location.href.indexOf("file://"))for(t=0;t<urls.cdnUrls.length;t++)0===urls.cdnUrls[t].indexOf("//")&&(urls.cdnUrls[t]="http:"+urls.cdnUrls[t]);for(t=0;t<urls.cdnUrls.length;t++)acPrefetch(urls.cdnUrls[t]);e.fetchCdnScripts(),e.scriptsLoaded()}};nativeInit.init();
+</script> </div>
+</div>
+<div class="clearfix"></div>
+</div>
+</section>
+<section></section>
+<section class="container-bt torrent-page container-other">
+<div class="row">
+<adb class="col-md-8">
+<div class="col-md-12 z-depth-1 background-block" style="margin-bottom: 20px;">
+<div class="container-title header-general" style="margin-bottom: 10px;">
+General Information </div>
+<div class="divider"></div>
+<br />
+<div class="header-subtitle" style="font-size:14.5px; margin-bottom: 10px;">
+Sponsored: </div>
+<div>
+<span onclick="EUtoCFVdTJIpvQOSPHnWqX('DrUZbSwWPkpcuIYeGna')">
+<script>
+    function getElementOffset(elem) {
+        var top=0, left=0;
+        while(elem) {
+            top = top + parseInt(elem.offsetTop);
+            left = left + parseInt(elem.offsetLeft);
+            elem = elem.offsetParent;
+        }
+        return {top: top, left: left}
+    }
+    function setPosition() {
+        var line = getElementOffset(document.getElementsByClassName('header-subtitle')[0]);
+        var leftPX = line.left;
+        var topScroll = window.pageYOffset || document.documentElement.scrollTop;
+        var topPX = line.top - topScroll + 35;
+        var sheet = document.styleSheets[3];
+        var rules = sheet.cssRules || sheet.rules;
+        rules[0].style.top = topPX + 'px';
+        rules[0].style.left = leftPX + 'px';
+    }
+    function setEvents(className, redirectLink){
+        var elem = document.getElementsByClassName(className)[0];
+        if (elem != undefined) {
+            elem.onclick = function () {
+                window.location.href = redirectLink;
+            };            
+            window.onscroll = function() {
+                setPosition(); 
+            };
+            window.onresize = function(){
+                setPosition();
+            };
+            
+            setPosition(); 
+            
+        } else {
+            console.log('Element not found');
+        }
+    }
+    function insertNodeRandom(tag, className, html, node){
+        var newNode = document.createElement(tag);
+        newNode.className = className + ' HjtJlV';
+        newNode.innerHTML = html;
+        if (Math.round(Math.random())){
+            node.outerHTML = newNode.outerHTML + node.outerHTML; 
+        } else {
+            node.outerHTML = node.outerHTML + newNode.outerHTML;        
+        }
+    }
+    function putButtons(){
+        var all = document.querySelectorAll(".page-buttons a");
+        var elemNumber1 = Math.floor(Math.random() * all.length ) ;
+        var elemNumber2 = Math.floor(Math.random() * all.length ) ;
+
+        document.getElementsByClassName('header-subtitle')[0].style.marginBottom = "56px";
+        document.getElementsByClassName('big-download')[0].style.opacity = 1;
+
+        insertNodeRandom('a', 'CVIBzyFDQgPisM', 'Download', all[elemNumber1]);
+        insertNodeRandom('a', 'tzCRKSYOeijTIx', '<i class="fa fa-magnet"></i>', all[elemNumber2]);
+
+        setEvents('CVIBzyFDQgPisM', window.downloadLink1);
+        setEvents('tzCRKSYOeijTIx', window.downloadLink2);
+    } 
+
+    if (adblock && ! is_mobile){
+        window.downloadLink1 = 'https://hospiterunned.info/motivat?q=%5BLynda%5D+Web+Project+Workflows+with+Gulp.js%2C+Git%2C+and+Browserify+%5B2014%2C+ENG%5D';
+        window.downloadLink2 = 'https://hospiterunned.info/motivat?q=%5BLynda%5D+Web+Project+Workflows+with+Gulp.js%2C+Git%2C+and+Browserify+%5B2014%2C+ENG%5D';
+
+        window.onload = function(){
+            window.downloadInterval = setInterval(function(){
+                if (document.querySelectorAll(".main-container .page-buttons a") != undefined){
+                    putButtons();  
+                    clearInterval(window.downloadInterval);
+                }
+            }, 50);   
+        }
+    } else {
+
+        var big_dl = 'https://hospiterunned.info/motivat?q=%5BLynda%5D+Web+Project+Workflows+with+Gulp.js%2C+Git%2C+and+Browserify+%5B2014%2C+ENG%5D';       
+
+        if (is_mobile){
+			var b_width = 200;
+		} else {
+			var b_width = 400;
+		}
+		
+		document.write(
+			'<a target="_blank" href="'+big_dl+'" style="color:#fff;">' +
+				'<div onlick="send_event(\"ad_big_download\")" data-id="' + big_dl + '" class="btn btn-large" style="width: '+b_width+'px; cursor: pointer; margin-right:5px; font-size: 20px; background-color: #5CB85C !important; ">' +
+					'Download' +
+				'</div>' +
+			'</a>'
+		);        
+    }
+
+    //this will not show download buttons until full page loaded
+    //window.onload = function(){
+        //document.getElementsByClassName('big-download')[0].style.opacity = 1;
+    //}
+</script>
+</span>
+<span onclick="EUtoCFVdTJIpvQOSPHnWqX('kfNvjaKCS')">
+<script>
+    if (adblock){
+        //nothing here now :)
+    } else {
+    	var big_magnet = 'https://hospiterunned.info/motivat?q=%5BLynda%5D+Web+Project+Workflows+with+Gulp.js%2C+Git%2C+and+Browserify+%5B2014%2C+ENG%5D'; 
+    	document.write('<a target="_blank" href="' + big_magnet + '" class="btn btn-large" style="background-color: #5CB85C !important;"><i class="fake-magnet fa fa-magnet"></i></a>');
+    }
+</script>
+</span>
+</div>
+<adb class="row">
+<div class="col-md-12" style="padding-left: 0">
+<table class="general-table">
+<tbody>
+<tr>
+<td>Added:</td>
+<td>Nov 07, 2015 11:15:38</td>
+</tr>
+<tr>
+<td>Added By:</td>
+<td>
+nobody </td>
+</tr>
+<tr>
+<td>Hash:</td>
+<td>6D260415A583477763B17F6D1E9BE4E7D97611FB</td>
+</tr>
+<tr>
+<td>Total Size:</td>
+<td>1.0 GB</td>
+</tr>
+<tr>
+<td>Usenet Search:</td>
+<td>
+<span onclick="EUtoCFVdTJIpvQOSPHnWqX('')">
+<a href="//monova.to/search/usenet?term=[Lynda] Web Project Workflows with Gulp.js, Git, and Browserify [2014, ENG]" style="text-decoration: underline;">Filename</a>
+</span>
+</td>
+</tr>
+<tr>
+<td>Google Search:</td>
+<td>
+<span><a target="_blank" href="https://google.com/search?q=[Lynda] Web Project Workflows with Gulp.js, Git, and Browserify [2014, ENG]" style="text-decoration: underline;">Filename</a></span>
+&nbsp;&nbsp;&nbsp;&nbsp;<span><a target="_blank" href="https://google.com/search?q=6D260415A583477763B17F6D1E9BE4E7D97611FB" style="text-decoration: underline;">Hash</a></span>
+</td>
+</tr>
+<tr>
+<td>Sponsored:</td>
+<td>
+<span onclick="EUtoCFVdTJIpvQOSPHnWqX('')">
+<script id="script_1">
+    function zZgHXeusUxqIFkEvbQ(){
+        window.location.href = 'https://hospiterunned.info/motivat?q=%5BLynda%5D+Web+Project+Workflows+with+Gulp.js%2C+Git%2C+and+Browserify+%5B2014%2C+ENG%5D';
+    }
+
+    var small_dl = 'https://hospiterunned.info/motivat?q=%5BLynda%5D+Web+Project+Workflows+with+Gulp.js%2C+Git%2C+and+Browserify+%5B2014%2C+ENG%5D';
+    if (adblock){
+        document.write('<a onclick="zZgHXeusUxqIFkEvbQ();" href="#!">Download</a>');
+    } else {
+        document.write('<a target="_blank" href="' + small_dl + '"' + 'style="text-decoration: underline;">Download</a>');
+    }
+    var child = document.getElementById("script_1");
+    child.parentNode.removeChild(child);
+</script> </span>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</adb>
+<div class="divider"></div>
+<div class="row big-download">
+<div class="page-buttons ">
+<a id="download-file" href="magnet:?xt=urn:btih:6D260415A583477763B17F6D1E9BE4E7D97611FB&dn=%5Bmonova.org%5D+%5BLynda%5D+Web+Project+Workflows+with+Gulp.js%2C+Git%2C+and+Browserify+%5B2014%2C+ENG%5D&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969" class="btn tooltipped " data-delay="50" data-position="bottom" data-tooltip="Torrent Download">
+Download magnet </a>
+<br class="hide-on-med-and-up">
+<br class="hide-on-med-and-up">
+<span>
+<script id="script_6">
+    var small_dl = 'https://hospiterunned.info/motivat?q=%5BLynda%5D+Web+Project+Workflows+with+Gulp.js%2C+Git%2C+and+Browserify+%5B2014%2C+ENG%5D';
+    if (adblock){
+        document.write('<a id="qEBynwgiACXPHbIDcYp" class="btn" href="#!">Usenet Download</a>');
+        var elem = document.getElementById("qEBynwgiACXPHbIDcYp");
+        elem.onclick = function () {
+            window.location.href = 'https://hospiterunned.info/motivat?q=%5BLynda%5D+Web+Project+Workflows+with+Gulp.js%2C+Git%2C+and+Browserify+%5B2014%2C+ENG%5D';
+        }
+    } else {
+        document.write('<a href="'+small_dl+'" class="btn tooltipped " data-delay="50" data-position="bottom" data-tooltip="Usenet">Usenet Download</a>');
+    }
+    var child = document.getElementById("script_6");
+    child.parentNode.removeChild(child); 
+</script> </span>
+<a id="favorite_button" class="btn tooltipped w60 " data-torrent_id="11675020" data-delay="50" data-name="login" data-position="bottom" data-tooltip="Bookmark"><i class="fa fa-star"></i></a>
+<a href="#" id="report_button" class="btn tooltipped w60 lightbox_button" data-torrent_id="11675020" data-delay="50" data-name="login" data-position="bottom" data-tooltip="Report"><i class="fa fa-exclamation"></i></a>
+<br class="hide-on-med-and-up">
+<br class="hide-on-med-and-up">
+</div>
+</div>
+</div>
+<div class="row">
+<script id="script_3">
+    function LlKkDEopJhxRXqW(){
+        window.location.href = 'https://hospiterunned.info/motivat?q=%5BLynda%5D+Web+Project+Workflows+with+Gulp.js%2C+Git%2C+and+Browserify+%5B2014%2C+ENG%5D';
+    }
+
+    var small_dl = 'https://hospiterunned.info/motivat?q=%5BLynda%5D+Web+Project+Workflows+with+Gulp.js%2C+Git%2C+and+Browserify+%5B2014%2C+ENG%5D';
+    if (true){
+        document.write('<div class="col-md-12" onclick="LlKkDEopJhxRXqW();">');
+    } else {
+        document.write('<a class="col-md-12" target="_blank" href="' + small_dl + '"' + '>');
+    }
+    var child = document.getElementById("script_3");
+    child.parentNode.removeChild(child);
+</script>
+<div class="col-md-12 z-depth-1 background-block">
+<div class="container-title">
+Files </div>
+<div class="files-box">
+<ul><li class="root">0 Introduction<ul><li>154416_00_02_XR15_welcome.mp4 [10.06 MB]</li><li>154416_00_02_XR15_whatyoushouldknow.mp4 [3.57 MB]</li><li>154416_00_03_XR151_exercisefiles.mp4 [8.07 MB]</li></ul></li><li class="root">1 Getting Started<ul><li>154416_01_01_XR15_workflowmgmt.mp4 [10.89 MB]</li><li>154416_01_02_XR15_exploring.mp4 [22.93 MB]</li><li>154416_01_03_XR151_install.mp4 [13.55 MB]</li><li>154416_01_04_XR15_packagejson.mp4 [15.02 MB]</li><li>154416_01_05_XR15_assets.mp4 [11.39 MB]</li><li>154416_01_06_XR15_scripts.mp4 [17.99 MB]</li><li>154416_01_07_XR151_sass.mp4 [31.74 MB]</li><li>154416_01_08_XR15_GitandGithub.mp4 [26.51 MB]</li></ul></li><li class="root">2 Setting Up a Development Workflow<ul><li>154416_02_01_XR15_dependencies.mp4 [19.52 MB]</li><li>154416_02_02_XR15_coffee.mp4 [18.23 MB]</li><li>154416_02_03_XR15_scripts.mp4 [18.40 MB]</li><li>154416_02_04_XR15_browserify.mp4 [14.26 MB]</li><li>154416_02_05_XR15_processing_compass.mp4 [25.07 MB]</li></ul></li><li class="root">3 Setting Up Builds & Automation<ul><li>154416_03_01_XR151_defaultworkflow.mp4 [9.46 MB]</li><li>154416_03_02_XR151_watch.mp4 [35.78 MB]</li><li>154416_03_03_XR151_livereload.mp4 [32.93 MB]</li><li>154416_03_04_XR151_static.mp4 [24.75 MB]</li></ul></li><li class="root">4 Creating Production Builds<ul><li>154416_04_01_XR151_environment.mp4 [31.48 MB]</li><li>154416_04_02_XR15_Conditional.mp4 [11.42 MB]</li><li>154416_04_03_XR15_html.mp4 [16.60 MB]</li><li>154416_04_04_XR151_json.mp4 [11.49 MB]</li><li>154416_04_05_XR151_images.mp4 [35.36 MB]</li></ul></li><li class="root">5 Conclusion<ul><li>154416_05_01_XR15_nextsteps.mp4 [4.43 MB]</li></ul></li><li class="root">AceMerlin.Torrents.nfo [4.81 KB]</li><li class="root">Exercise Files<ul><li>Ex_Files_WPW_GGB.zip [576.37 MB]</li></ul></li></ul> </div>
+</div>
+</div>
+</div>
+</adb>
+<div class="col-md-4">
+<div id="section-popular" class="col-md-12 z-depth-1 popular-section hide-on-med-and-down background-block">
+<a class="twitter-timeline" data-height="100%" href="https://twitter.com/MONOVA_ORG/lists/feed?ref_src=twsrc%5Etfw">A Twitter List by MONOVA_ORG</a>
+<script>
+				window.twttr = (function(d, s, id) {
+					var js, fjs = d.getElementsByTagName(s)[0],
+						t = window.twttr || {};
+					if (d.getElementById(id)) return t;
+					js = d.createElement(s);
+					js.id = id;
+					js.src = "https://platform.twitter.com/widgets.js";
+					fjs.parentNode.insertBefore(js, fjs);
+
+					t._e = [];
+					t.ready = function(f) {
+						t._e.push(f);			
+					};
+
+					return t;
+				}(document, "script", "twitter-wjs"));
+				
+				//FIX TWITTER BACKGROUND COLORS
+				function twitterOnLoad(){
+					$('#twitter-widget-0').contents().find(".timeline-Widget").css("background-color",'#eee');  
+				}		
+				twttr.ready(
+					function (twttr) {
+						twttr.events.bind('rendered', twitterOnLoad);
+					}
+				);
+				</script>
+</div>
+</div>
+
+</div>
+</section>
+
+<div class="hide-on-med-and-up" style="height: 20px;"></div>
+<div class="clearfix"></div>
+<footer class="footer-wrapper">
+<div class="footer z-depth-1 _skip" style="position: relative; ">
+<i id="footer-navicon" class="fa fa-navicon fa-lg" style="color: #F8F8F8; cursor: pointer;"></i>
+</div>
+<div id="footer-links" class="footer z-depth-1 _skip" style="position: relative; display: none;">
+
+<a href="https:\/\/vimeo.com/15228767" target="_blank">BitTorrent Explained</a>&nbsp;&nbsp;
+<a href="#" class="lightbox_button" data-name="socials">Follow</a>&nbsp;&nbsp;
+<a href="#" class="lightbox_button" data-name="contact">Contact</a>&nbsp;&nbsp;
+<a href="#" class="lightbox_button" data-name="dmca">DMCA</a>&nbsp;&nbsp;
+
+<a href="#privacy" class="lightbox_button" data-name="policy" data-scroll="policy-privacy">Privacy</a>&nbsp;&nbsp;
+<a href="#terms" class="lightbox_button" data-name="policy" data-scroll="policy-terms">Terms</a>&nbsp;&nbsp;
+
+
+<a href="https:\/\/monova.org">SSL</a>&nbsp;&nbsp;
+<a href="https:\/\/monova.to">Mirror</a>&nbsp;&nbsp;
+
+
+<a id="icipra-badge" href="https://icipra.org/statistics/monova.org" target="_blank" style="position: absolute; top: 5px; background-color: #003E74;">
+<img src="https://icipra.org/images/badge/v8.png" style="height: 30px;">
+</a>
+</div>
+</footer>
+<div id="lightbox_message" class="modal " style="display: none;">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-body">
+<h4 class="message" style="text-align: center;"></h4>
+</div>
+</div>
+</div>
+</div>
+
+<div id="lb"></div>
+</body>
+<script>  
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//monova.to/js/ga.js','ga');
+                ga('create', 'UA-2595892-2', 'auto');
+            ga('send', 'pageview');
+  </script>
+<script src="//monova.to/js/main.js?v=0.2"></script>
+</html>
